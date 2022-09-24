@@ -770,7 +770,7 @@ Banner Style
 
 .row {
   flex-wrap: nowrap;
-  display: grid;
+  flex-direction: column;
 }
 
 .main-banner {
